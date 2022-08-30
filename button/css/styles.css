@@ -1,0 +1,26 @@
+:root {
+	--main-bg-color: brown;
+	--main-text-color: white;
+	--main-border-color: white;
+	--glow-color: yellow;
+}
+
+body {
+	background-color: var(--main-bg-color);
+}
+
+button {
+	background-color: var(--main-bg-color);
+	color: var(--main-text-color);
+	border: solid var(--main-border-color) 1px;
+	padding: 0.5rem 2rem;
+	transition: all 0.25s ease-in;
+}
+
+button:hover {
+	color: var(--glow-color);
+	border: solid var(--glow-color) 1px;
+	transform: translateY(-2px);
+	box-shadow: 0px 0.5em 0.5em -0.4em var(--glow-color);
+	cursor: pointer;
+}
