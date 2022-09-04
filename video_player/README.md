@@ -1,0 +1,2 @@
+## Bug of currentTime
+It seems that there is a bug with video.currentTime when we play a video available in internet. The bug does not happen when playing the video in the local folder relative to the js file.
