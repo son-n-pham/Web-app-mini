@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MVC</title>
+    <script defer type="module" src="./src/js/controller.js"></script>
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        background-color: black;
+        color: black;
+      }
+
+      .btn {
+        background-color: rgb(252, 252, 119);
+        display: inline-block;
+        padding: 2rem;
+        margin: 5rem;
+      }
+
+      .btn:hover {
+        cursor: pointer;
+      }
+
+      .content {
+        background-color: white;
+        display: inline-block;
+        padding: 2rem;
+        font-size: 40px;
+        margin-left: 5rem;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="MVC">
+      <div class="btns">
+        <div class="btn btn--render" data-content="Hello World">
+          Click to render "Hello World" from dataset of this button
+        </div>
+        <div class="btn btn--update">
+          Click to add "--Hello--" after each load
+        </div>
+      </div>
+      <p class="content content--show">Just a place holder to show content</p>
+    </div>
+  </body>
+</html>

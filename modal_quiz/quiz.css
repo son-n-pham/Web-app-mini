@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+:root {
+	--color-primary: rgb(41, 0, 23);
+	--color-primary-light: rgb(173, 171, 171);
+	--color-secondary: teal;
+	--color-secondary-light: rgb(168, 219, 219);
+	--color-highlight: gold;
+	--color-error: orangered;
+	--content-width: 80vw;
+	--border-radius: 0.3rem;
+	--glow-color: yellow;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	/* display: flex; */
+	/* align-items: center;
+	justify-content: center;
+	height: 100vh; */
+	/* overflow: hidden; */
+	margin: 0;
+	/* background-color: var(--color-primary); */
+}
+
+ul {
+	list-style: none;
+}
+
+.quiz-header ul li {
+	margin: 1rem;
+}
+
+.quiz-header ul li label {
+	cursor: pointer;
+}
+
+.quiz-container {
+	box-shadow: 0 0 .5rem .1rem rgba(100, 100, 100, 0.1);
+	background-color: white;
+	width: 30rem;
+	border-radius: var(--border-radius);
+	overflow: hidden;
+	padding: 0;
+}
+
+#question {
+	text-align: center;
+}
+
+#submit {
+	width: 100%;
+	border: none;
+	display: block;
+	cursor: pointer;
+	background-color: var(--color-secondary-light);
+	height: 2rem;
+}
+
+#submit:hover {
+	background-color: var(--color-secondary);
+}

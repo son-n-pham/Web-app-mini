@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="quiz.css" />
+    <link rel="stylesheet" href="modal_style.css" />
+
+    <title>Modal window</title>
+  </head>
+
+  <body>
+    <button class="show-modal">Show modal 1</button>
+    <button class="show-modal">Show modal 2</button>
+    <button class="show-modal">Show modal 3</button>
+
+    <div class="modal hidden quiz-container" id="quiz">
+      <button class="close-modal">&times;</button>
+      <div class="quiz-container">
+        <div class="quiz-header" id="quiz-header">
+          <h2 id="question">Question text</h2>
+          <ul>
+            <li>
+              <input type="radio" name="answer" id="a" class="answer" />
+              <label for="a" id="a-text">Question</label>
+            </li>
+
+            <li>
+              <input type="radio" name="answer" id="b" class="answer" />
+              <label for="b" id="b-text">Question</label>
+            </li>
+
+            <li>
+              <input type="radio" name="answer" id="c" class="answer" />
+              <label for="c" id="c-text">Question</label>
+            </li>
+
+            <li>
+              <input type="radio" name="answer" id="d" class="answer" />
+              <label for="d" id="d-text">Question</label>
+            </li>
+          </ul>
+        </div>
+        <div class="quiz-result" id="quiz-result">
+          <h2>Quiz Result</h2>
+          <h3>
+            Total score: <span id="score"></span> /
+            <span id="question-numbers"></span>
+          </h3>
+        </div>
+        <button id="submit">Submit</button>
+      </div>
+    </div>
+    <div class="overlay hidden"></div>
+
+    <script type="module" src="modal_script.js"></script>
+  </body>
+</html>
