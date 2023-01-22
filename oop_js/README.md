@@ -1,0 +1,2 @@
+Prototype Inheritance / Delegation Works
+
