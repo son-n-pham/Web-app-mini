@@ -1,0 +1,1383 @@
+// https://gemini.azure.bakerhughes.com/api/Bit/GetBitJsonData?bitPN=X19964
+
+{
+  "IsSuccess": true,
+  "ErrorCode": "",
+  "ErrorMessage": "",
+  "Data": {
+    "PageTitle": "Bit Side Panel",
+    "Header": {
+      "ImageData": {
+        "url": "https://gemini.azure.bakerhughes.com/BitImages/X19964_TopView_thumb.png",
+        "style": null
+      },
+      "Main": {
+        "type": "FlexBox",
+        "value": "X19964 DP506XX 12.250\" (O)",
+        "style": null
+      },
+      "Sub": {
+        "type": "FlexBox",
+        "content": [
+          {
+            "propertyName": "productLine",
+            "title": "Product Family",
+            "value": "Talon",
+            "style": null,
+            "type": null,
+            "category_id": 765,
+            "category_order": 1
+          },
+          {
+            "propertyName": "bitMaterial",
+            "title": "Material",
+            "value": "121 Matrix",
+            "style": "{\"color\":\"#0c5a4f\"}",
+            "type": null,
+            "category_id": 765,
+            "category_order": 2
+          },
+          {
+            "propertyName": "noOfBuilds",
+            "title": "Builds",
+            "value": "4",
+            "style": "{\"color\":\"#0c5a4f\"}",
+            "type": null,
+            "category_id": 765,
+            "category_order": 3
+          }
+        ]
+      }
+    },
+    "BodyContent": [
+      {
+        "TabName": "Specifications",
+        "type": "TabMenu",
+        "TabContent": [
+          {
+            "type": null,
+            "title": "Specifications",
+            "count": 10,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "bitLength",
+                "title": "Bit Length",
+                "value": "18.220",
+                "style": null,
+                "type": null,
+                "category_id": 784,
+                "category_order": 1
+              },
+              {
+                "propertyName": "makeupTorque",
+                "title": "Makeup Torque",
+                "value": "7.5'' Bit Sub; 44.5 - 49.0kft-lb (60.4 - 66.4kNm),7.75'' Bit Sub; 51.2 - 56.3kft-lb (69.4 - 76.4kNm)",
+                "style": null,
+                "type": null,
+                "category_id": 784,
+                "category_order": 10
+              },
+              {
+                "propertyName": "bitDiameter",
+                "title": "Bit Size",
+                "value": "12.250",
+                "style": "{\"color\":\"#0c5a4f\"}",
+                "type": null,
+                "category_id": 784,
+                "category_order": 2
+              },
+              {
+                "propertyName": "bit_type",
+                "title": "Product Type",
+                "value": "Standard PDC",
+                "style": null,
+                "type": null,
+                "category_id": 784,
+                "category_order": 3
+              },
+              {
+                "propertyName": "bladeCount",
+                "title": "Blade Count",
+                "value": "6",
+                "style": null,
+                "type": null,
+                "category_id": 784,
+                "category_order": 4
+              },
+              {
+                "propertyName": "features",
+                "title": "Features",
+                "value": " EC G1 G6 G8 PQ1 U4 XX",
+                "style": null,
+                "type": null,
+                "category_id": 784,
+                "category_order": 5
+              },
+              {
+                "propertyName": "iadcCode",
+                "title": "IADC Code",
+                "value": "M323",
+                "style": "{\"color\":\"#0c5a4f\"}",
+                "type": null,
+                "category_id": 784,
+                "category_order": 6
+              },
+              {
+                "propertyName": "makeupLength",
+                "title": "Makeup Length",
+                "value": "13.280",
+                "style": null,
+                "type": null,
+                "category_id": 784,
+                "category_order": 7
+              },
+              {
+                "propertyName": "bitWeight",
+                "title": "Weight",
+                "value": "310",
+                "style": null,
+                "type": null,
+                "category_id": 784,
+                "category_order": 8
+              },
+              {
+                "propertyName": "maxWOB",
+                "title": "Maximum WOB",
+                "value": "58 klb (25 tn or kdaN)",
+                "style": null,
+                "type": null,
+                "category_id": 784,
+                "category_order": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TabName": "Management",
+        "type": "TabMenu",
+        "TabContent": [
+          {
+            "type": null,
+            "title": "Lifecylce",
+            "count": 14,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "designFamily",
+                "title": "Design Family",
+                "value": "",
+                "style": null,
+                "type": null,
+                "category_id": 770,
+                "category_order": 1
+              },
+              {
+                "propertyName": "obsoletedReason",
+                "title": "Obsoleted Reason",
+                "value": "Obsoleted for inactivity, and uses obsolete cutters - Sept. 2015.  Contact PM for ordering help. RJP 8/17/2015",
+                "style": null,
+                "type": null,
+                "category_id": 770,
+                "category_order": 11
+              },
+              {
+                "propertyName": "releaseDate",
+                "title": "Release Date",
+                "value": "26 Sep 2013",
+                "style": null,
+                "type": null,
+                "category_id": 770,
+                "category_order": 12
+              },
+              {
+                "propertyName": "revision",
+                "title": "Revision",
+                "value": "0B",
+                "style": null,
+                "type": null,
+                "category_id": 770,
+                "category_order": 13
+              },
+              {
+                "propertyName": "syncDate",
+                "title": "Sync Date",
+                "value": "28 Oct 2022",
+                "style": null,
+                "type": null,
+                "category_id": 770,
+                "category_order": 14
+              },
+              {
+                "propertyName": "teamcenter_status",
+                "title": "Teamcenter Status",
+                "value": "Official_Released",
+                "style": null,
+                "type": null,
+                "category_id": 770,
+                "category_order": 15
+              },
+              {
+                "propertyName": "designDate",
+                "title": "Design Date",
+                "value": "05 Aug 2013",
+                "style": "{\"color\":\"#0c5a4f\"}",
+                "type": null,
+                "category_id": 770,
+                "category_order": 2
+              },
+              {
+                "propertyName": "Designer",
+                "title": "Designer",
+                "value": "Pham, Son N",
+                "style": null,
+                "type": null,
+                "category_id": 770,
+                "category_order": 3
+              },
+              {
+                "propertyName": "Engr_Comment",
+                "title": "Engr Comments",
+                "value": "Obsoleted for inactivity - Sept. 2015.  Contact PM for ordering help. RJP 8/17/2015Special Request - PLM approval required for order monitoring. Aug 2015  DDR.AP-13-DP075 - Project 520291  S-Status: Status will be switched to M-Status when having performance recap.  S.PHAM 8/26/2013  -Keep PQ1 profile, but change cone angle to 15degree -Apply flush LMM, adjust to 0.030” undersized gage pad -Apply leading ovoid engaging formation at 0.030”/rev DOC -Optimize workrate, and achieve stable ROP at 12ft/h from BD3, and better Joe-Kelly Ratio -Optimize junkslot profile, blade thickness and check FEA blade strength for bit hydraulics and chordal drop of 160deg as Talon Standard -Keep Talon weld standoff and blank breakout -Keep Talon gage pattern, low torque leading edge gage blend, and diverging junkslot -Employ Talon’s StaySharp cutters  S.PHAM 8/26/2013",
+                "style": null,
+                "type": null,
+                "category_id": 770,
+                "category_order": 4
+              },
+              {
+                "propertyName": "lastModifiedDate",
+                "title": "Last Modified Date",
+                "value": "26 Oct 2022",
+                "style": null,
+                "type": null,
+                "category_id": 770,
+                "category_order": 5
+              },
+              {
+                "propertyName": "lastModifiedDesigner",
+                "title": "Last Modified Designer",
+                "value": "infodba",
+                "style": null,
+                "type": null,
+                "category_id": 770,
+                "category_order": 6
+              },
+              {
+                "propertyName": "status",
+                "title": "Bit Status",
+                "value": "O",
+                "style": null,
+                "type": null,
+                "category_id": 770,
+                "category_order": 7
+              },
+              {
+                "propertyName": "obsoletedBy",
+                "title": "Obsoleted By",
+                "value": null,
+                "style": null,
+                "type": null,
+                "category_id": 770,
+                "category_order": 8
+              },
+              {
+                "propertyName": "obsoletedDate",
+                "title": "Obsoleted Date",
+                "value": null,
+                "style": null,
+                "type": null,
+                "category_id": 770,
+                "category_order": 9
+              }
+            ]
+          },
+          {
+            "type": null,
+            "title": "Product Line",
+            "count": 13,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "bitPartnumber",
+                "title": "Part Number",
+                "value": "X19964",
+                "style": null,
+                "type": null,
+                "category_id": 772,
+                "category_order": 1
+              },
+              {
+                "propertyName": "bgBitStyle",
+                "title": "BG Bit Style",
+                "value": "506",
+                "style": null,
+                "type": null,
+                "category_id": 772,
+                "category_order": 10
+              },
+              {
+                "propertyName": "bitStyle",
+                "title": "Style",
+                "value": "DP506XX",
+                "style": "{\"color\":\"#0c5a4f\"}",
+                "type": null,
+                "category_id": 772,
+                "category_order": 11
+              },
+              {
+                "propertyName": "bit_type",
+                "title": "Product Type",
+                "value": "Standard PDC",
+                "style": null,
+                "type": null,
+                "category_id": 772,
+                "category_order": 12
+              },
+              {
+                "propertyName": "internalproductLine",
+                "title": "Product Line",
+                "value": "Talon",
+                "style": null,
+                "type": null,
+                "category_id": 772,
+                "category_order": 13
+              },
+              {
+                "propertyName": "description",
+                "title": "Description",
+                "value": "DRILL BIT - 12.250 DP506XX",
+                "style": null,
+                "type": null,
+                "category_id": 772,
+                "category_order": 2
+              },
+              {
+                "propertyName": "PHCode",
+                "title": "PH Code",
+                "value": "60019034HK2TE1",
+                "style": null,
+                "type": null,
+                "category_id": 772,
+                "category_order": 3
+              },
+              {
+                "propertyName": "marketingName",
+                "title": "Rationalization Name",
+                "value": null,
+                "style": null,
+                "type": null,
+                "category_id": 772,
+                "category_order": 4
+              },
+              {
+                "propertyName": "referencePartNumber",
+                "title": "Reference Part Number",
+                "value": "X19202",
+                "style": null,
+                "type": null,
+                "category_id": 772,
+                "category_order": 5
+              },
+              {
+                "propertyName": "sapItemID",
+                "title": "SAP Item ID",
+                "value": "X19964",
+                "style": null,
+                "type": null,
+                "category_id": 772,
+                "category_order": 6
+              },
+              {
+                "propertyName": "SubClassCode",
+                "title": "Sub Class Code",
+                "value": "FC_PB_TN_DPPK",
+                "style": null,
+                "type": null,
+                "category_id": 772,
+                "category_order": 7
+              },
+              {
+                "propertyName": "TeamcenterName",
+                "title": "Teamcenter Name",
+                "value": "DIAMOND DRILL BIT",
+                "style": null,
+                "type": null,
+                "category_id": 772,
+                "category_order": 8
+              },
+              {
+                "propertyName": "baseStyle",
+                "title": "Base Style",
+                "value": "TD506XX",
+                "style": null,
+                "type": null,
+                "category_id": 772,
+                "category_order": 9
+              }
+            ]
+          },
+          {
+            "type": null,
+            "title": "Product Management",
+            "count": 2,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "PHCode",
+                "title": "PH Code",
+                "value": "60019034HK2TE1",
+                "style": null,
+                "type": null,
+                "category_id": 811,
+                "category_order": 1
+              },
+              {
+                "propertyName": "productLine",
+                "title": "Product Family",
+                "value": "Talon",
+                "style": null,
+                "type": null,
+                "category_id": 811,
+                "category_order": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TabName": "Cutting Structure",
+        "type": "TabMenu",
+        "TabContent": [
+          {
+            "type": null,
+            "title": "Layout",
+            "count": 2,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "CutterLayoutImbalance",
+                "title": "Cutter Layout Imbalance",
+                "value": "Low Imbalance",
+                "style": null,
+                "type": null,
+                "category_id": 763,
+                "category_order": 1
+              },
+              {
+                "propertyName": "CutterLayoutType",
+                "title": "Cutter Layout Type",
+                "value": "Reverse Spiral",
+                "style": null,
+                "type": null,
+                "category_id": 763,
+                "category_order": 2
+              }
+            ]
+          },
+          {
+            "type": null,
+            "title": "Cutter Regions",
+            "count": 7,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "coneCutterCount",
+                "title": "Cone Cutter Count",
+                "value": "9",
+                "style": null,
+                "type": null,
+                "category_id": 767,
+                "category_order": 1
+              },
+              {
+                "propertyName": "noseCutterCount",
+                "title": "Nose Cutter Count",
+                "value": "22",
+                "style": null,
+                "type": null,
+                "category_id": 767,
+                "category_order": 2
+              },
+              {
+                "propertyName": "shoulderCutterCount",
+                "title": "Shoulder Cutter Count",
+                "value": "21",
+                "style": null,
+                "type": null,
+                "category_id": 767,
+                "category_order": 3
+              },
+              {
+                "propertyName": "gageCutterCount",
+                "title": "Gage Cutter Count",
+                "value": "4",
+                "style": null,
+                "type": null,
+                "category_id": 767,
+                "category_order": 4
+              },
+              {
+                "propertyName": "faceCutterCount",
+                "title": "Face Cutter Count",
+                "value": "56",
+                "style": null,
+                "type": null,
+                "category_id": 767,
+                "category_order": 5
+              },
+              {
+                "propertyName": "backupCutterCount",
+                "title": "Backup Cutter Count",
+                "value": "30",
+                "style": null,
+                "type": null,
+                "category_id": 767,
+                "category_order": 6
+              },
+              {
+                "propertyName": "totalCuttingStructureCutterCount",
+                "title": "Total Cutter Count",
+                "value": "98",
+                "style": null,
+                "type": null,
+                "category_id": 767,
+                "category_order": 7
+              }
+            ]
+          },
+          {
+            "type": null,
+            "title": "Primary Cutter",
+            "count": 5,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "cutterPartChamfer",
+                "title": "Cutter Part Chamfer",
+                "value": "0.016",
+                "style": null,
+                "type": null,
+                "category_id": 768,
+                "category_order": 1
+              },
+              {
+                "propertyName": "cutterDiameter",
+                "title": "Cutter Diameter",
+                "value": "0.625",
+                "style": null,
+                "type": null,
+                "category_id": 768,
+                "category_order": 2
+              },
+              {
+                "propertyName": "cutterFamily",
+                "title": "Cutter Family",
+                "value": "Staysharp - GP",
+                "style": null,
+                "type": null,
+                "category_id": 768,
+                "category_order": 3
+              },
+              {
+                "propertyName": "cutterleachCode",
+                "title": "Cutter Leach Code",
+                "value": "2",
+                "style": null,
+                "type": null,
+                "category_id": 768,
+                "category_order": 4
+              },
+              {
+                "propertyName": "isPolished",
+                "title": "Is Polished",
+                "value": "Polished",
+                "style": null,
+                "type": null,
+                "category_id": 768,
+                "category_order": 5
+              }
+            ]
+          },
+          {
+            "type": null,
+            "title": "Segment",
+            "count": 1,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "joeKellyRatio",
+                "title": "Asymmetry Index",
+                "value": "1.64",
+                "style": null,
+                "type": null,
+                "category_id": 779,
+                "category_order": 1
+              }
+            ]
+          },
+          {
+            "type": null,
+            "title": "Backrake",
+            "count": 5,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "coneBackRake",
+                "title": "Cone Backrake",
+                "value": "20",
+                "style": null,
+                "type": null,
+                "category_id": 790,
+                "category_order": 1
+              },
+              {
+                "propertyName": "noseBackRake",
+                "title": "Nose Backrake",
+                "value": "20",
+                "style": null,
+                "type": null,
+                "category_id": 790,
+                "category_order": 2
+              },
+              {
+                "propertyName": "shoulderBackRake",
+                "title": "Shoulder Backrake",
+                "value": "26",
+                "style": null,
+                "type": null,
+                "category_id": 790,
+                "category_order": 3
+              },
+              {
+                "propertyName": "gageBackRake",
+                "title": "Gage Backrake",
+                "value": "45",
+                "style": null,
+                "type": null,
+                "category_id": 790,
+                "category_order": 4
+              },
+              {
+                "propertyName": "backupCutterCount",
+                "title": "Backup Cutter Count",
+                "value": "30",
+                "style": null,
+                "type": null,
+                "category_id": 790,
+                "category_order": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TabName": "Hydraulics",
+        "type": "TabMenu",
+        "TabContent": [
+          {
+            "type": null,
+            "title": "Flow",
+            "count": 6,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "cuttingsTrajectory",
+                "title": "Cuttings Trajectory",
+                "value": "104.700",
+                "style": null,
+                "type": null,
+                "category_id": 769,
+                "category_order": 1
+              },
+              {
+                "propertyName": "faceVolumeArea",
+                "title": "Face Volume Area",
+                "value": "163.031",
+                "style": null,
+                "type": null,
+                "category_id": 769,
+                "category_order": 2
+              },
+              {
+                "propertyName": "faceVolumeRatio",
+                "title": "Face Volume Ratio",
+                "value": "0.352",
+                "style": null,
+                "type": null,
+                "category_id": 769,
+                "category_order": 3
+              },
+              {
+                "propertyName": "fixedTFA",
+                "title": "Fixed TFA",
+                "value": "0.00",
+                "style": null,
+                "type": null,
+                "category_id": 769,
+                "category_order": 4
+              },
+              {
+                "propertyName": "maxTFA",
+                "title": "Maximum TFA",
+                "value": "2.23",
+                "style": null,
+                "type": null,
+                "category_id": 769,
+                "category_order": 5
+              },
+              {
+                "propertyName": "minTFA",
+                "title": "Minimum TFA",
+                "value": "0.29",
+                "style": null,
+                "type": null,
+                "category_id": 769,
+                "category_order": 6
+              }
+            ]
+          },
+          {
+            "type": null,
+            "title": "Junk Slot",
+            "count": 9,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "junkSlotAspectRatio",
+                "title": "Junk Slot Aspect Ratio",
+                "value": "0.105",
+                "style": null,
+                "type": null,
+                "category_id": 773,
+                "category_order": 1
+              },
+              {
+                "propertyName": "junkSlotCleaningIndex",
+                "title": "JS Cleaning Index",
+                "value": "708,693,511,665,526,676",
+                "style": null,
+                "type": null,
+                "category_id": 773,
+                "category_order": 2
+              },
+              {
+                "propertyName": "junkSlotDivergence",
+                "title": "Junk Slot Divergence",
+                "value": "42.5336",
+                "style": null,
+                "type": null,
+                "category_id": 773,
+                "category_order": 3
+              },
+              {
+                "propertyName": "junkSlotStartDepth",
+                "title": "Junk Slot Start Depth",
+                "value": "1.25",
+                "style": null,
+                "type": null,
+                "category_id": 773,
+                "category_order": 4
+              },
+              {
+                "propertyName": "junkSlotArea",
+                "title": "Junk Slot Area",
+                "value": "40.457",
+                "style": null,
+                "type": null,
+                "category_id": 773,
+                "category_order": 5
+              },
+              {
+                "propertyName": "junkSlotRatio",
+                "title": "Junk Slot Ratio",
+                "value": "0.34",
+                "style": null,
+                "type": null,
+                "category_id": 773,
+                "category_order": 6
+              },
+              {
+                "propertyName": "junkslotConeTaper",
+                "title": "Junkslot Cone Taper",
+                "value": "87",
+                "style": null,
+                "type": null,
+                "category_id": 773,
+                "category_order": 7
+              },
+              {
+                "propertyName": "junkslotEfficiency",
+                "title": "Junkslot Efficiency",
+                "value": "1;112.0,2;114.0,3;80.0,4;108.0,5;84.0,6;106.0",
+                "style": null,
+                "type": null,
+                "category_id": 773,
+                "category_order": 8
+              },
+              {
+                "propertyName": "pinchPointRatio",
+                "title": "Pinch Point Ratio",
+                "value": "1;1.140,3;0.530,5;0.410",
+                "style": null,
+                "type": null,
+                "category_id": 773,
+                "category_order": 9
+              }
+            ]
+          },
+          {
+            "type": null,
+            "title": "Nozzles",
+            "count": 4,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "nozzleCount",
+                "title": "Nozzle Count",
+                "value": "6",
+                "style": null,
+                "type": null,
+                "category_id": 780,
+                "category_order": 1
+              },
+              {
+                "propertyName": "nozzle_size",
+                "title": "Nozzle Size",
+                "value": null,
+                "style": null,
+                "type": null,
+                "category_id": 780,
+                "category_order": 2
+              },
+              {
+                "propertyName": "nozzleType",
+                "title": "Nozzle Type",
+                "value": "6 SP",
+                "style": null,
+                "type": null,
+                "category_id": 780,
+                "category_order": 3
+              },
+              {
+                "propertyName": "primaryHydraulicSystem",
+                "title": "Primary Hydraulic System",
+                "value": "Jet Nozzles",
+                "style": null,
+                "type": null,
+                "category_id": 780,
+                "category_order": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TabName": "Blades",
+        "type": "TabMenu",
+        "TabContent": [
+          {
+            "type": null,
+            "title": "Gage",
+            "count": 6,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "gageLength",
+                "title": "Gage Length",
+                "value": "4.000",
+                "style": null,
+                "type": null,
+                "category_id": 776,
+                "category_order": 2
+              },
+              {
+                "propertyName": "gagePad",
+                "title": "Gage Pad",
+                "value": "Talon Round(4.000 in)",
+                "style": null,
+                "type": null,
+                "category_id": 776,
+                "category_order": 3
+              },
+              {
+                "propertyName": "GageStepLength",
+                "title": "Gage Step Length",
+                "value": "0.000",
+                "style": null,
+                "type": null,
+                "category_id": 776,
+                "category_order": 4
+              },
+              {
+                "propertyName": "GageUnderSizeStep",
+                "title": "Gage Under Size Step",
+                "value": "0.000",
+                "style": null,
+                "type": null,
+                "category_id": 776,
+                "category_order": 5
+              },
+              {
+                "propertyName": "gage_undersize",
+                "title": "Gage Undersize",
+                "value": "0.030",
+                "style": null,
+                "type": null,
+                "category_id": 776,
+                "category_order": 6
+              },
+              {
+                "propertyName": "LMMUnderSize",
+                "title": "LMM Under Size",
+                "value": "0.015",
+                "style": null,
+                "type": null,
+                "category_id": 776,
+                "category_order": 7
+              }
+            ]
+          },
+          {
+            "type": null,
+            "title": "Orientation",
+            "count": 6,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "joeKellyRatio",
+                "title": "Asymmetry Index",
+                "value": "1.64",
+                "style": null,
+                "type": null,
+                "category_id": 777,
+                "category_order": 1
+              },
+              {
+                "propertyName": "joeKellyRobust",
+                "title": "Robust JK",
+                "value": "1.470",
+                "style": null,
+                "type": null,
+                "category_id": 777,
+                "category_order": 10
+              },
+              {
+                "propertyName": "GageTilt",
+                "title": "Bit Tilt",
+                "value": "0.21",
+                "style": null,
+                "type": null,
+                "category_id": 777,
+                "category_order": 2
+              },
+              {
+                "propertyName": "bladeAngleAround",
+                "title": "Blade Angle Around",
+                "value": "0,635,1192,1762,2320,2879",
+                "style": null,
+                "type": null,
+                "category_id": 777,
+                "category_order": 3
+              },
+              {
+                "propertyName": "joeKelly3D",
+                "title": "JK 3D",
+                "value": null,
+                "style": null,
+                "type": null,
+                "category_id": 777,
+                "category_order": 7
+              },
+              {
+                "propertyName": "joeKellyTolerance",
+                "title": "JK Tolerance",
+                "value": "5.000",
+                "style": null,
+                "type": null,
+                "category_id": 777,
+                "category_order": 8
+              }
+            ]
+          },
+          {
+            "type": null,
+            "title": "Profile",
+            "count": 4,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "coneAngle",
+                "title": "Cone Angle (deg.)",
+                "value": "15.000",
+                "style": null,
+                "type": null,
+                "category_id": 778,
+                "category_order": 1
+              },
+              {
+                "propertyName": "noseLocation",
+                "title": "Nose Loc./Diam.",
+                "value": "0.262",
+                "style": null,
+                "type": null,
+                "category_id": 778,
+                "category_order": 2
+              },
+              {
+                "propertyName": "profileheight",
+                "title": "Profile Height",
+                "value": "4.180",
+                "style": null,
+                "type": null,
+                "category_id": 778,
+                "category_order": 3
+              },
+              {
+                "propertyName": "shoulderHeight",
+                "title": "Shoulder Ht./Diam.",
+                "value": "0.2249",
+                "style": null,
+                "type": null,
+                "category_id": 778,
+                "category_order": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TabName": "Integrity",
+        "type": "TabMenu",
+        "TabContent": [
+          {
+            "type": null,
+            "title": "Material",
+            "count": 4,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "binderMaterial",
+                "title": "Binder Material",
+                "value": "MF53",
+                "style": null,
+                "type": null,
+                "category_id": 857,
+                "category_order": 1
+              },
+              {
+                "propertyName": "bitMaterial",
+                "title": "Material",
+                "value": "121 Matrix",
+                "style": "{\"color\":\"#0c5a4f\"}",
+                "type": null,
+                "category_id": 857,
+                "category_order": 2
+              },
+              {
+                "propertyName": "face_material",
+                "title": "Face Material",
+                "value": "150 Matrix",
+                "style": null,
+                "type": null,
+                "category_id": 857,
+                "category_order": 3
+              },
+              {
+                "propertyName": "shoulderMaterial",
+                "title": "Shoulder Material",
+                "value": "160 Matrix",
+                "style": null,
+                "type": null,
+                "category_id": 857,
+                "category_order": 4
+              }
+            ]
+          },
+          {
+            "type": null,
+            "title": "FEA Parameters",
+            "count": 3,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "FEA_Version",
+                "title": "FEA Version",
+                "value": "3.010",
+                "style": null,
+                "type": null,
+                "category_id": 855,
+                "category_order": 1
+              },
+              {
+                "propertyName": "BHA_Type",
+                "title": "BHA Type",
+                "value": "AKO",
+                "style": null,
+                "type": null,
+                "category_id": 855,
+                "category_order": 2
+              },
+              {
+                "propertyName": "assumedCorrosion",
+                "title": "Assumed Corrosion",
+                "value": "NO",
+                "style": null,
+                "type": null,
+                "category_id": 855,
+                "category_order": 3
+              }
+            ]
+          },
+          {
+            "type": null,
+            "title": "FEA Results (Max Values)",
+            "count": 8,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "frontOfBladeBreakPct",
+                "title": "Front of Blade Break Pct",
+                "value": null,
+                "style": null,
+                "type": null,
+                "category_id": 856,
+                "category_order": 1
+              },
+              {
+                "propertyName": "frontOfBladeCrackPct",
+                "title": "Front of Blade Crack Pct",
+                "value": null,
+                "style": null,
+                "type": null,
+                "category_id": 856,
+                "category_order": 2
+              },
+              {
+                "propertyName": "Torque_Limit_Break",
+                "title": "Torque Limit (Break)",
+                "value": null,
+                "style": null,
+                "type": null,
+                "category_id": 856,
+                "category_order": 3
+              },
+              {
+                "propertyName": "Torque_Limit_Crack",
+                "title": "Torque Limit (Crack)",
+                "value": null,
+                "style": null,
+                "type": null,
+                "category_id": 856,
+                "category_order": 4
+              },
+              {
+                "propertyName": "backOfBladeBreakPct",
+                "title": "Back of Blade Break Pct",
+                "value": null,
+                "style": null,
+                "type": null,
+                "category_id": 856,
+                "category_order": 5
+              },
+              {
+                "propertyName": "backOfBladeCrackPct",
+                "title": "Back of Blade Crack Pct",
+                "value": null,
+                "style": null,
+                "type": null,
+                "category_id": 856,
+                "category_order": 6
+              },
+              {
+                "propertyName": "centerBreakPct",
+                "title": "Center Break Pct",
+                "value": null,
+                "style": null,
+                "type": null,
+                "category_id": 856,
+                "category_order": 7
+              },
+              {
+                "propertyName": "centerCrackPct",
+                "title": "Center Crack Pct",
+                "value": null,
+                "style": null,
+                "type": null,
+                "category_id": 856,
+                "category_order": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TabName": "Operations",
+        "type": "TabMenu",
+        "TabContent": [
+          {
+            "type": null,
+            "title": "Connection",
+            "count": 1,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "makeupTorque",
+                "title": "Makeup Torque",
+                "value": "7.5'' Bit Sub; 44.5 - 49.0kft-lb (60.4 - 66.4kNm),7.75'' Bit Sub; 51.2 - 56.3kft-lb (69.4 - 76.4kNm)",
+                "style": null,
+                "type": null,
+                "category_id": 759,
+                "category_order": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TabName": "Components",
+        "type": "TabMenu",
+        "TabContent": [
+          {
+            "type": null,
+            "title": "Shank",
+            "count": 7,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "breakerCode",
+                "title": "Breaker Code",
+                "value": null,
+                "style": null,
+                "type": null,
+                "category_id": 786,
+                "category_order": 1
+              },
+              {
+                "propertyName": "breakerPlates",
+                "title": "Breaker Plates",
+                "value": "123210007",
+                "style": null,
+                "type": null,
+                "category_id": 786,
+                "category_order": 2
+              },
+              {
+                "propertyName": "connectDownSize",
+                "title": "Connect Down Size",
+                "value": null,
+                "style": null,
+                "type": null,
+                "category_id": 786,
+                "category_order": 3
+              },
+              {
+                "propertyName": "connectDownType",
+                "title": "Connect Down Type",
+                "value": null,
+                "style": null,
+                "type": null,
+                "category_id": 786,
+                "category_order": 4
+              },
+              {
+                "propertyName": "shankType",
+                "title": "Shank Connection Type",
+                "value": "Pin",
+                "style": "{\"color\":\"#0c5a4f\"}",
+                "type": null,
+                "category_id": 786,
+                "category_order": 5
+              },
+              {
+                "propertyName": "makeupTorque",
+                "title": "Makeup Torque",
+                "value": "7.5'' Bit Sub; 44.5 - 49.0kft-lb (60.4 - 66.4kNm),7.75'' Bit Sub; 51.2 - 56.3kft-lb (69.4 - 76.4kNm)",
+                "style": null,
+                "type": null,
+                "category_id": 786,
+                "category_order": 6
+              },
+              {
+                "propertyName": "shankSize",
+                "title": "Connection",
+                "value": "6 5/8 REG",
+                "style": "{\"color\":\"#0c5a4f\"}",
+                "type": null,
+                "category_id": 786,
+                "category_order": 7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TabName": "Ordering",
+        "type": "TabMenu",
+        "TabContent": [
+          {
+            "type": null,
+            "title": "Ordering",
+            "count": 5,
+            "collapse": true,
+            "content": [
+              {
+                "propertyName": "noOfBuilds",
+                "title": "Builds",
+                "value": "4",
+                "style": "{\"color\":\"#0c5a4f\"}",
+                "type": null,
+                "category_id": 783,
+                "category_order": 1
+              },
+              {
+                "propertyName": "DCR_Number",
+                "title": "DCR Number",
+                "value": "AP-13-DP075",
+                "style": null,
+                "type": null,
+                "category_id": 783,
+                "category_order": 2
+              },
+              {
+                "propertyName": "ProjectType",
+                "title": "Project Type",
+                "value": "DCR",
+                "style": null,
+                "type": null,
+                "category_id": 783,
+                "category_order": 3
+              },
+              {
+                "propertyName": "District",
+                "title": "Requesting District",
+                "value": null,
+                "style": null,
+                "type": null,
+                "category_id": 783,
+                "category_order": 4
+              },
+              {
+                "propertyName": "Region",
+                "title": "Requesting Region",
+                "value": "Asia Pacific",
+                "style": null,
+                "type": null,
+                "category_id": 783,
+                "category_order": 5
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Footer": [
+      {
+        "type": "button",
+        "text": "More",
+        "style": "{\"width\":\"106px\",\"height\":\"44px\",\"background\":\"#02A783\",\"color\":\"#fff\"}",
+        "redirectTo": "/SearchDashBoard/X19964"
+      }
+    ]
+  }
+}
